@@ -1,4 +1,29 @@
-# universal-launcher
-this launcher requires no admin rights, if your gonna install python uncheck use admin privliges when installing and check add to path, after that do pip install minecraft-launcher-lib and pip install requests
-Note: this requires no microsoft account and for now only supports offline
-another note: the folder is called minecraft in downloads
+# Minecraft Launcher (Offline)
+
+This launcher **does not require administrator rights**.
+For now only supports offline.
+
+---
+
+## Requirements
+
+- Python 3.x
+
+---
+
+## Installation
+
+### 1. Install Python
+When installing Python:
+
+- ❌ Uncheck **“Use admin privileges”**
+- ✅ Check **“Add Python to PATH”**
+
+---
+
+### 2. Install Required Libraries
+Open **Command Prompt** and run:
+
+
+pip install minecraft-launcher-lib
+pip install requests
