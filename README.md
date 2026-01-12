@@ -8,7 +8,7 @@ The minecraft folder is in downloads.
 
 ## Requirements
 
-- Python 3.x
+- Latest Python Version
 
 ---
 
