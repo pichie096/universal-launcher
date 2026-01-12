@@ -1,7 +1,8 @@
-# Minecraft Launcher (Offline)
+# Universal Launcher (Offline)
 
 This launcher **does not require administrator rights**.
 For now only supports offline.
+The minecraft folder is in downloads.
 
 ---
 
