@@ -191,11 +191,10 @@ class MinecraftLauncher:
         scrollbar = ttk.Scrollbar(console_frame, command=self.console_text.yview)
         scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         self.console_text.config(yscrollcommand=scrollbar.set)
-        # Add this at the very end of setup_ui(), after the console_frame
 
         # Made by text at bottom
         credit_label = ttk.Label(main_frame, text="RRP The 3rd",
-                        font=('Arial', 8), foreground='gray')
+                                font=('Arial', 8), foreground='gray')
         credit_label.grid(row=12, column=0, columnspan=2, pady=5)
 
     def browse_directory(self):
