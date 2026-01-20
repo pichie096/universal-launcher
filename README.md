@@ -30,7 +30,7 @@ Open **Command Prompt** and run:
 
 
 pip install minecraft-launcher-lib
-pip install requests
+
 
 
 ## Multiplayer
