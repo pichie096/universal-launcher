@@ -23,6 +23,9 @@ When installing Python:
 
 ---
 
+## Multiplayer
+You can use fabric or forge for multiplayer, download e4mc for your version so if your on 1.20.1 download 1.20.1, then put it in the mods folder. make a world and open to lan, a shareable link should appear. only you need to download it. the reason why you need e4mc is due to opening to lan requiring admin. e4mc:https://modrinth.com/mod/e4mc
+
 ### 2. Install Required Libraries
 Open **Command Prompt** and run:
 
