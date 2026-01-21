@@ -29,7 +29,7 @@ When installing Python:
 Open **Command Prompt** and run:
 
 
-pip install minecraft-launcher-lib
+pip install minecraft-launcher-lib requests psutil
 
 
 
