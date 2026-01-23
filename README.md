@@ -34,4 +34,4 @@ pip install minecraft-launcher-lib requests psutil
 
 
 ## Multiplayer
-You can use fabric or forge for multiplayer, download e4mc for your version so if your on 1.20.1 download 1.20.1, then put it in the mods folder. make a world and open to lan, a shareable link should appear. only you need to download it. the reason why you need e4mc is due to opening to lan requiring admin. e4mc:https://modrinth.com/mod/e4mc
+you would need to use aternos.org and make a server for multiplayer. dont forget to turn on cracked mode in the server options
