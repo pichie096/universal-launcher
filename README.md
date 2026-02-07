@@ -3,6 +3,7 @@
 This launcher **does not require administrator rights**.
 For now only supports offline.
 The minecraft folder is in downloads.
+## THE STUFF DOWN HERE IS IF YOUR GONNA USE VERSIONS OLDER THEN 2.0.
 tutorial:
 https://streamable.com/yza0vl
 ---
