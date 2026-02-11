@@ -3,7 +3,7 @@
 This launcher **does not require administrator rights**.
 For now only supports offline.
 The minecraft folder is in downloads.
-## THE STUFF DOWN HERE IS IF YOUR GONNA USE VERSIONS OLDER THEN 2.0.
+## IF IT SAYS VIRUS DETECTED USE 1.02.7 OR OLDER  BUT IF YOUR USING 2.0 YOU DONT HAVE TO FOLLOW THE STEPS DOWN HERE
 tutorial:
 https://streamable.com/yza0vl
 ---
